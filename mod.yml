@@ -1,0 +1,1155 @@
+title: Invisible Maps
+originalAuthor: danimalforlife
+description:  |+
+  Fixes being able to see the room you're in.
+
+assets:
+
+- name: gumibattle\gm00.map
+  method: copy
+  source:
+  - name: gumibattle\gm00.map
+- name: gumibattle\gm01.map
+  method: copy
+  source:
+  - name: gumibattle\gm01.map
+- name: gumibattle\gm02.map
+  method: copy
+  source:
+  - name: gumibattle\gm02.map
+- name: gumibattle\gm03.map
+  method: copy
+  source:
+  - name: gumibattle\gm03.map
+- name: gumibattle\gm04.map
+  method: copy
+  source:
+  - name: gumibattle\gm04.map
+- name: gumibattle\gm05.map
+  method: copy
+  source:
+  - name: gumibattle\gm05.map
+- name: gumibattle\gm06.map
+  method: copy
+  source:
+  - name: gumibattle\gm06.map
+- name: gumibattle\gm07.map
+  method: copy
+  source:
+  - name: gumibattle\gm07.map
+- name: gumibattle\gm08.map
+  method: copy
+  source:
+  - name: gumibattle\gm08.map
+- name: map\al00.map
+  method: copy
+  source:
+  - name: map\al00.map
+- name: map\al01.map
+  method: copy
+  source:
+  - name: map\al01.map
+- name: map\al02.map
+  method: copy
+  source:
+  - name: map\al02.map
+- name: map\al03.map
+  method: copy
+  source:
+  - name: map\al03.map
+- name: map\al04.map
+  method: copy
+  source:
+  - name: map\al04.map
+- name: map\al05.map
+  method: copy
+  source:
+  - name: map\al05.map
+- name: map\al06.map
+  method: copy
+  source:
+  - name: map\al06.map
+- name: map\al07.map
+  method: copy
+  source:
+  - name: map\al07.map
+- name: map\al09.map
+  method: copy
+  source:
+  - name: map\al09.map
+- name: map\al10.map
+  method: copy
+  source:
+  - name: map\al10.map
+- name: map\al11.map
+  method: copy
+  source:
+  - name: map\al11.map
+- name: map\al12.map
+  method: copy
+  source:
+  - name: map\al12.map
+- name: map\al13.map
+  method: copy
+  source:
+  - name: map\al13.map
+- name: map\al14.map
+  method: copy
+  source:
+  - name: map\al14.map
+- name: map\al15.map
+  method: copy
+  source:
+  - name: map\al15.map
+- name: map\bb00.map
+  method: copy
+  source:
+  - name: map\bb00.map
+- name: map\bb01.map
+  method: copy
+  source:
+  - name: map\bb01.map
+- name: map\bb02.map
+  method: copy
+  source:
+  - name: map\bb02.map
+- name: map\bb03.map
+  method: copy
+  source:
+  - name: map\bb03.map
+- name: map\bb04.map
+  method: copy
+  source:
+  - name: map\bb04.map
+- name: map\bb05.map
+  method: copy
+  source:
+  - name: map\bb05.map
+- name: map\bb06.map
+  method: copy
+  source:
+  - name: map\bb06.map
+- name: map\bb07.map
+  method: copy
+  source:
+  - name: map\bb07.map
+- name: map\bb08.map
+  method: copy
+  source:
+  - name: map\bb08.map
+- name: map\bb09.map
+  method: copy
+  source:
+  - name: map\bb09.map
+- name: map\bb10.map
+  method: copy
+  source:
+  - name: map\bb10.map
+- name: map\bb11.map
+  method: copy
+  source:
+  - name: map\bb11.map
+- name: map\bb12.map
+  method: copy
+  source:
+  - name: map\bb12.map
+- name: map\bb13.map
+  method: copy
+  source:
+  - name: map\bb13.map
+- name: map\bb14.map
+  method: copy
+  source:
+  - name: map\bb14.map
+- name: map\bb15.map
+  method: copy
+  source:
+  - name: map\bb15.map
+- name: map\ca00.map
+  method: copy
+  source:
+  - name: map\ca00.map
+- name: map\ca01.map
+  method: copy
+  source:
+  - name: map\ca01.map
+- name: map\ca02.map
+  method: copy
+  source:
+  - name: map\ca02.map
+- name: map\ca03.map
+  method: copy
+  source:
+  - name: map\ca03.map
+- name: map\ca04.map
+  method: copy
+  source:
+  - name: map\ca04.map
+- name: map\ca05.map
+  method: copy
+  source:
+  - name: map\ca05.map
+- name: map\ca06.map
+  method: copy
+  source:
+  - name: map\ca06.map
+- name: map\ca07.map
+  method: copy
+  source:
+  - name: map\ca07.map
+- name: map\ca08.map
+  method: copy
+  source:
+  - name: map\ca08.map
+- name: map\ca09.map
+  method: copy
+  source:
+  - name: map\ca09.map
+- name: map\ca10.map
+  method: copy
+  source:
+  - name: map\ca10.map
+- name: map\ca11.map
+  method: copy
+  source:
+  - name: map\ca11.map
+- name: map\ca12.map
+  method: copy
+  source:
+  - name: map\ca12.map
+- name: map\ca13.map
+  method: copy
+  source:
+  - name: map\ca13.map
+- name: map\ca14.map
+  method: copy
+  source:
+  - name: map\ca14.map
+- name: map\ca15.map
+  method: copy
+  source:
+  - name: map\ca15.map
+- name: map\ca16.map
+  method: copy
+  source:
+  - name: map\ca16.map
+- name: map\ca17.map
+  method: copy
+  source:
+  - name: map\ca17.map
+- name: map\ca18.map
+  method: copy
+  source:
+  - name: map\ca18.map
+- name: map\ca19.map
+  method: copy
+  source:
+  - name: map\ca19.map
+- name: map\ca20.map
+  method: copy
+  source:
+  - name: map\ca20.map
+- name: map\ca21.map
+  method: copy
+  source:
+  - name: map\ca21.map
+- name: map\ca22.map
+  method: copy
+  source:
+  - name: map\ca22.map
+- name: map\ca23.map
+  method: copy
+  source:
+  - name: map\ca23.map
+- name: map\ca24.map
+  method: copy
+  source:
+  - name: map\ca24.map
+- name: map\ca25.map
+  method: copy
+  source:
+  - name: map\ca25.map
+- name: map\dc00.map
+  method: copy
+  source:
+  - name: map\dc00.map
+- name: map\dc01.map
+  method: copy
+  source:
+  - name: map\dc01.map
+- name: map\dc02.map
+  method: copy
+  source:
+  - name: map\dc02.map
+- name: map\dc03.map
+  method: copy
+  source:
+  - name: map\dc03.map
+- name: map\dc04.map
+  method: copy
+  source:
+  - name: map\dc04.map
+- name: map\dc05.map
+  method: copy
+  source:
+  - name: map\dc05.map
+- name: map\dc06.map
+  method: copy
+  source:
+  - name: map\dc06.map
+- name: map\dc07.map
+  method: copy
+  source:
+  - name: map\dc07.map
+- name: map\di00.map
+  method: copy
+  source:
+  - name: map\di00.map
+- name: map\di01.map
+  method: copy
+  source:
+  - name: map\di01.map
+- name: map\di02.map
+  method: copy
+  source:
+  - name: map\di02.map
+- name: map\eh00.map
+  method: copy
+  source:
+  - name: map\eh00.map
+- name: map\eh01.map
+  method: copy
+  source:
+  - name: map\eh01.map
+- name: map\eh02.map
+  method: copy
+  source:
+  - name: map\eh02.map
+- name: map\eh03.map
+  method: copy
+  source:
+  - name: map\eh03.map
+- name: map\eh04.map
+  method: copy
+  source:
+  - name: map\eh04.map
+- name: map\eh05.map
+  method: copy
+  source:
+  - name: map\eh05.map
+- name: map\eh06.map
+  method: copy
+  source:
+  - name: map\eh06.map
+- name: map\eh07.map
+  method: copy
+  source:
+  - name: map\eh07.map
+- name: map\eh08.map
+  method: copy
+  source:
+  - name: map\eh08.map
+- name: map\eh09.map
+  method: copy
+  source:
+  - name: map\eh09.map
+- name: map\eh10.map
+  method: copy
+  source:
+  - name: map\eh10.map
+- name: map\eh11.map
+  method: copy
+  source:
+  - name: map\eh11.map
+- name: map\eh12.map
+  method: copy
+  source:
+  - name: map\eh12.map
+- name: map\eh13.map
+  method: copy
+  source:
+  - name: map\eh13.map
+- name: map\eh14.map
+  method: copy
+  source:
+  - name: map\eh14.map
+- name: map\eh15.map
+  method: copy
+  source:
+  - name: map\eh15.map
+- name: map\eh16.map
+  method: copy
+  source:
+  - name: map\eh16.map
+- name: map\eh17.map
+  method: copy
+  source:
+  - name: map\eh17.map
+- name: map\eh18.map
+  method: copy
+  source:
+  - name: map\eh18.map
+- name: map\eh19.map
+  method: copy
+  source:
+  - name: map\eh19.map
+- name: map\eh20.map
+  method: copy
+  source:
+  - name: map\eh20.map
+- name: map\eh21.map
+  method: copy
+  source:
+  - name: map\eh21.map
+- name: map\eh22.map
+  method: copy
+  source:
+  - name: map\eh22.map
+- name: map\eh23.map
+  method: copy
+  source:
+  - name: map\eh23.map
+- name: map\eh24.map
+  method: copy
+  source:
+  - name: map\eh24.map
+- name: map\eh25.map
+  method: copy
+  source:
+  - name: map\eh25.map
+- name: map\eh26.map
+  method: copy
+  source:
+  - name: map\eh26.map
+- name: map\eh27.map
+  method: copy
+  source:
+  - name: map\eh27.map
+- name: map\eh28.map
+  method: copy
+  source:
+  - name: map\eh28.map
+- name: map\eh29.map
+  method: copy
+  source:
+  - name: map\eh29.map
+- name: map\es00.map
+  method: copy
+  source:
+  - name: map\es00.map
+- name: map\es01.map
+  method: copy
+  source:
+  - name: map\es01.map
+- name: map\hb00.map
+  method: copy
+  source:
+  - name: map\hb00.map
+- name: map\hb01.map
+  method: copy
+  source:
+  - name: map\hb01.map
+- name: map\hb02.map
+  method: copy
+  source:
+  - name: map\hb02.map
+- name: map\hb03.map
+  method: copy
+  source:
+  - name: map\hb03.map
+- name: map\hb04.map
+  method: copy
+  source:
+  - name: map\hb04.map
+- name: map\hb05.map
+  method: copy
+  source:
+  - name: map\hb05.map
+- name: map\hb06.map
+  method: copy
+  source:
+  - name: map\hb06.map
+- name: map\hb07.map
+  method: copy
+  source:
+  - name: map\hb07.map
+- name: map\hb08.map
+  method: copy
+  source:
+  - name: map\hb08.map
+- name: map\hb09.map
+  method: copy
+  source:
+  - name: map\hb09.map
+- name: map\hb10.map
+  method: copy
+  source:
+  - name: map\hb10.map
+- name: map\hb11.map
+  method: copy
+  source:
+  - name: map\hb11.map
+- name: map\hb12.map
+  method: copy
+  source:
+  - name: map\hb12.map
+- name: map\hb13.map
+  method: copy
+  source:
+  - name: map\hb13.map
+- name: map\hb14.map
+  method: copy
+  source:
+  - name: map\hb14.map
+- name: map\hb15.map
+  method: copy
+  source:
+  - name: map\hb15.map
+- name: map\hb16.map
+  method: copy
+  source:
+  - name: map\hb16.map
+- name: map\hb17.map
+  method: copy
+  source:
+  - name: map\hb17.map
+- name: map\hb18.map
+  method: copy
+  source:
+  - name: map\hb18.map
+- name: map\hb19.map
+  method: copy
+  source:
+  - name: map\hb19.map
+- name: map\hb20.map
+  method: copy
+  source:
+  - name: map\hb20.map
+- name: map\hb21.map
+  method: copy
+  source:
+  - name: map\hb21.map
+- name: map\hb22.map
+  method: copy
+  source:
+  - name: map\hb22.map
+- name: map\hb23.map
+  method: copy
+  source:
+  - name: map\hb23.map
+- name: map\hb24.map
+  method: copy
+  source:
+  - name: map\hb24.map
+- name: map\hb25.map
+  method: copy
+  source:
+  - name: map\hb25.map
+- name: map\hb26.map
+  method: copy
+  source:
+  - name: map\hb26.map
+- name: map\hb27.map
+  method: copy
+  source:
+  - name: map\hb27.map
+- name: map\hb32.map
+  method: copy
+  source:
+  - name: map\hb32.map
+- name: map\hb33.map
+  method: copy
+  source:
+  - name: map\hb33.map
+- name: map\hb34.map
+  method: copy
+  source:
+  - name: map\hb34.map
+- name: map\hb38.map
+  method: copy
+  source:
+  - name: map\hb38.map
+- name: map\he00.map
+  method: copy
+  source:
+  - name: map\he00.map
+- name: map\he01.map
+  method: copy
+  source:
+  - name: map\he01.map
+- name: map\he02.map
+  method: copy
+  source:
+  - name: map\he02.map
+- name: map\he03.map
+  method: copy
+  source:
+  - name: map\he03.map
+- name: map\he04.map
+  method: copy
+  source:
+  - name: map\he04.map
+- name: map\he05.map
+  method: copy
+  source:
+  - name: map\he05.map
+- name: map\he06.map
+  method: copy
+  source:
+  - name: map\he06.map
+- name: map\he07.map
+  method: copy
+  source:
+  - name: map\he07.map
+- name: map\he08.map
+  method: copy
+  source:
+  - name: map\he08.map
+- name: map\he09.map
+  method: copy
+  source:
+  - name: map\he09.map
+- name: map\he10.map
+  method: copy
+  source:
+  - name: map\he10.map
+- name: map\he11.map
+  method: copy
+  source:
+  - name: map\he11.map
+- name: map\he12.map
+  method: copy
+  source:
+  - name: map\he12.map
+- name: map\he13.map
+  method: copy
+  source:
+  - name: map\he13.map
+- name: map\he14.map
+  method: copy
+  source:
+  - name: map\he14.map
+- name: map\he15.map
+  method: copy
+  source:
+  - name: map\he15.map
+- name: map\he16.map
+  method: copy
+  source:
+  - name: map\he16.map
+- name: map\he17.map
+  method: copy
+  source:
+  - name: map\he17.map
+- name: map\he18.map
+  method: copy
+  source:
+  - name: map\he18.map
+- name: map\he19.map
+  method: copy
+  source:
+  - name: map\he19.map
+- name: map\lk00.map
+  method: copy
+  source:
+  - name: map\lk00.map
+- name: map\lk01.map
+  method: copy
+  source:
+  - name: map\lk01.map
+- name: map\lk02.map
+  method: copy
+  source:
+  - name: map\lk02.map
+- name: map\lk03.map
+  method: copy
+  source:
+  - name: map\lk03.map
+- name: map\lk04.map
+  method: copy
+  source:
+  - name: map\lk04.map
+- name: map\lk05.map
+  method: copy
+  source:
+  - name: map\lk05.map
+- name: map\lk06.map
+  method: copy
+  source:
+  - name: map\lk06.map
+- name: map\lk07.map
+  method: copy
+  source:
+  - name: map\lk07.map
+- name: map\lk08.map
+  method: copy
+  source:
+  - name: map\lk08.map
+- name: map\lk09.map
+  method: copy
+  source:
+  - name: map\lk09.map
+- name: map\lk10.map
+  method: copy
+  source:
+  - name: map\lk10.map
+- name: map\lk11.map
+  method: copy
+  source:
+  - name: map\lk11.map
+- name: map\lk12.map
+  method: copy
+  source:
+  - name: map\lk12.map
+- name: map\lk13.map
+  method: copy
+  source:
+  - name: map\lk13.map
+- name: map\lk14.map
+  method: copy
+  source:
+  - name: map\lk14.map
+- name: map\lk15.map
+  method: copy
+  source:
+  - name: map\lk15.map
+- name: map\lk16.map
+  method: copy
+  source:
+  - name: map\lk16.map
+- name: map\lm00.map
+  method: copy
+  source:
+  - name: map\lm00.map
+- name: map\lm01.map
+  method: copy
+  source:
+  - name: map\lm01.map
+- name: map\lm02.map
+  method: copy
+  source:
+  - name: map\lm02.map
+- name: map\lm03.map
+  method: copy
+  source:
+  - name: map\lm03.map
+- name: map\lm04.map
+  method: copy
+  source:
+  - name: map\lm04.map
+- name: map\lm05.map
+  method: copy
+  source:
+  - name: map\lm05.map
+- name: map\lm06.map
+  method: copy
+  source:
+  - name: map\lm06.map
+- name: map\lm07.map
+  method: copy
+  source:
+  - name: map\lm07.map
+- name: map\lm08.map
+  method: copy
+  source:
+  - name: map\lm08.map
+- name: map\lm09.map
+  method: copy
+  source:
+  - name: map\lm09.map
+- name: map\lm10.map
+  method: copy
+  source:
+  - name: map\lm10.map
+- name: map\mu00.map
+  method: copy
+  source:
+  - name: map\mu00.map
+- name: map\mu01.map
+  method: copy
+  source:
+  - name: map\mu01.map
+- name: map\mu02.map
+  method: copy
+  source:
+  - name: map\mu02.map
+- name: map\mu03.map
+  method: copy
+  source:
+  - name: map\mu03.map
+- name: map\mu04.map
+  method: copy
+  source:
+  - name: map\mu04.map
+- name: map\mu05.map
+  method: copy
+  source:
+  - name: map\mu05.map
+- name: map\mu06.map
+  method: copy
+  source:
+  - name: map\mu06.map
+- name: map\mu07.map
+  method: copy
+  source:
+  - name: map\mu07.map
+- name: map\mu08.map
+  method: copy
+  source:
+  - name: map\mu08.map
+- name: map\mu09.map
+  method: copy
+  source:
+  - name: map\mu09.map
+- name: map\mu10.map
+  method: copy
+  source:
+  - name: map\mu10.map
+- name: map\mu11.map
+  method: copy
+  source:
+  - name: map\mu11.map
+- name: map\mu12.map
+  method: copy
+  source:
+  - name: map\mu12.map
+- name: map\nm00.map
+  method: copy
+  source:
+  - name: map\nm00.map
+- name: map\nm01.map
+  method: copy
+  source:
+  - name: map\nm01.map
+- name: map\nm02.map
+  method: copy
+  source:
+  - name: map\nm02.map
+- name: map\nm03.map
+  method: copy
+  source:
+  - name: map\nm03.map
+- name: map\nm04.map
+  method: copy
+  source:
+  - name: map\nm04.map
+- name: map\nm05.map
+  method: copy
+  source:
+  - name: map\nm05.map
+- name: map\nm06.map
+  method: copy
+  source:
+  - name: map\nm06.map
+- name: map\nm07.map
+  method: copy
+  source:
+  - name: map\nm07.map
+- name: map\nm08.map
+  method: copy
+  source:
+  - name: map\nm08.map
+- name: map\nm09.map
+  method: copy
+  source:
+  - name: map\nm09.map
+- name: map\nm10.map
+  method: copy
+  source:
+  - name: map\nm10.map
+- name: map\po00.map
+  method: copy
+  source:
+  - name: map\po00.map
+- name: map\po01.map
+  method: copy
+  source:
+  - name: map\po01.map
+- name: map\po02.map
+  method: copy
+  source:
+  - name: map\po02.map
+- name: map\po03.map
+  method: copy
+  source:
+  - name: map\po03.map
+- name: map\po04.map
+  method: copy
+  source:
+  - name: map\po04.map
+- name: map\po05.map
+  method: copy
+  source:
+  - name: map\po05.map
+- name: map\po06.map
+  method: copy
+  source:
+  - name: map\po06.map
+- name: map\po07.map
+  method: copy
+  source:
+  - name: map\po07.map
+- name: map\po08.map
+  method: copy
+  source:
+  - name: map\po08.map
+- name: map\po09.map
+  method: copy
+  source:
+  - name: map\po09.map
+- name: map\tr00.map
+  method: copy
+  source:
+  - name: map\tr00.map
+- name: map\tr01.map
+  method: copy
+  source:
+  - name: map\tr01.map
+- name: map\tr02.map
+  method: copy
+  source:
+  - name: map\tr02.map
+- name: map\tr03.map
+  method: copy
+  source:
+  - name: map\tr03.map
+- name: map\tr04.map
+  method: copy
+  source:
+  - name: map\tr04.map
+- name: map\tr05.map
+  method: copy
+  source:
+  - name: map\tr05.map
+- name: map\tr06.map
+  method: copy
+  source:
+  - name: map\tr06.map
+- name: map\tr07.map
+  method: copy
+  source:
+  - name: map\tr07.map
+- name: map\tr08.map
+  method: copy
+  source:
+  - name: map\tr08.map
+- name: map\tr09.map
+  method: copy
+  source:
+  - name: map\tr09.map
+- name: map\tr10.map
+  method: copy
+  source:
+  - name: map\tr10.map
+- name: map\tr11.map
+  method: copy
+  source:
+  - name: map\tr11.map
+- name: map\tt00.map
+  method: copy
+  source:
+  - name: map\tt00.map
+- name: map\tt01.map
+  method: copy
+  source:
+  - name: map\tt01.map
+- name: map\tt02.map
+  method: copy
+  source:
+  - name: map\tt02.map
+- name: map\tt03.map
+  method: copy
+  source:
+  - name: map\tt03.map
+- name: map\tt04.map
+  method: copy
+  source:
+  - name: map\tt04.map
+- name: map\tt05.map
+  method: copy
+  source:
+  - name: map\tt05.map
+- name: map\tt06.map
+  method: copy
+  source:
+  - name: map\tt06.map
+- name: map\tt07.map
+  method: copy
+  source:
+  - name: map\tt07.map
+- name: map\tt08.map
+  method: copy
+  source:
+  - name: map\tt08.map
+- name: map\tt09.map
+  method: copy
+  source:
+  - name: map\tt09.map
+- name: map\tt10.map
+  method: copy
+  source:
+  - name: map\tt10.map
+- name: map\tt11.map
+  method: copy
+  source:
+  - name: map\tt11.map
+- name: map\tt12.map
+  method: copy
+  source:
+  - name: map\tt12.map
+- name: map\tt13.map
+  method: copy
+  source:
+  - name: map\tt13.map
+- name: map\tt14.map
+  method: copy
+  source:
+  - name: map\tt14.map
+- name: map\tt15.map
+  method: copy
+  source:
+  - name: map\tt15.map
+- name: map\tt16.map
+  method: copy
+  source:
+  - name: map\tt16.map
+- name: map\tt17.map
+  method: copy
+  source:
+  - name: map\tt17.map
+- name: map\tt18.map
+  method: copy
+  source:
+  - name: map\tt18.map
+- name: map\tt19.map
+  method: copy
+  source:
+  - name: map\tt19.map
+- name: map\tt20.map
+  method: copy
+  source:
+  - name: map\tt20.map
+- name: map\tt21.map
+  method: copy
+  source:
+  - name: map\tt21.map
+- name: map\tt22.map
+  method: copy
+  source:
+  - name: map\tt22.map
+- name: map\tt23.map
+  method: copy
+  source:
+  - name: map\tt23.map
+- name: map\tt24.map
+  method: copy
+  source:
+  - name: map\tt24.map
+- name: map\tt25.map
+  method: copy
+  source:
+  - name: map\tt25.map
+- name: map\tt26.map
+  method: copy
+  source:
+  - name: map\tt26.map
+- name: map\tt27.map
+  method: copy
+  source:
+  - name: map\tt27.map
+- name: map\tt28.map
+  method: copy
+  source:
+  - name: map\tt28.map
+- name: map\tt29.map
+  method: copy
+  source:
+  - name: map\tt29.map
+- name: map\tt30.map
+  method: copy
+  source:
+  - name: map\tt30.map
+- name: map\tt31.map
+  method: copy
+  source:
+  - name: map\tt31.map
+- name: map\tt32.map
+  method: copy
+  source:
+  - name: map\tt32.map
+- name: map\tt33.map
+  method: copy
+  source:
+  - name: map\tt33.map
+- name: map\tt34.map
+  method: copy
+  source:
+  - name: map\tt34.map
+- name: map\tt35.map
+  method: copy
+  source:
+  - name: map\tt35.map
+- name: map\tt36.map
+  method: copy
+  source:
+  - name: map\tt36.map
+- name: map\tt37.map
+  method: copy
+  source:
+  - name: map\tt37.map
+- name: map\tt38.map
+  method: copy
+  source:
+  - name: map\tt38.map
+- name: map\tt39.map
+  method: copy
+  source:
+  - name: map\tt39.map
+- name: map\tt40.map
+  method: copy
+  source:
+  - name: map\tt40.map
+- name: map\tt41.map
+  method: copy
+  source:
+  - name: map\tt41.map
+- name: map\wi00.map
+  method: copy
+  source:
+  - name: map\wi00.map
+- name: map\wi01.map
+  method: copy
+  source:
+  - name: map\wi01.map
+- name: map\wi02.map
+  method: copy
+  source:
+  - name: map\wi02.map
+- name: map\wi03.map
+  method: copy
+  source:
+  - name: map\wi03.map
+- name: map\wi04.map
+  method: copy
+  source:
+  - name: map\wi04.map
+- name: map\wi05.map
+  method: copy
+  source:
+  - name: map\wi05.map
+- name: map\wi06.map
+  method: copy
+  source:
+  - name: map\wi06.map
+- name: map\wi07.map
+  method: copy
+  source:
+  - name: map\wi07.map
+- name: map\wi08.map
+  method: copy
+  source:
+  - name: map\wi08.map
+- name: map\wm00.map
+  method: copy
+  source:
+  - name: map\wm00.map
